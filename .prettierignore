@@ -1,0 +1,6 @@
+# Ignore content collection generated files
+.astro
+
+dist
+node_modules
+
