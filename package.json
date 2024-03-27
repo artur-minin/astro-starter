@@ -1,0 +1,17 @@
+{
+  "name": "astro-starter",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "check": "astro check",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.5.10",
+    "@astrojs/check": "^0.5.10",
+    "typescript": "^5.4.3"
+  }
+}
